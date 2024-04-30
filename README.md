@@ -1,30 +1,32 @@
 
-## 简介
+![1](https://github.com/mrcluo/notes/assets/40492120/6dbbf55e-0286-42b6-8ef5-3b29e251cdfa)
 
-实际工作中遇到的问题，学习笔记，前端学习路径
+# 尘落笔记
 
-## 目录
+记录实际工作中遇到的问题
 
-### vue
+分享学习过程中的笔记和心得
 
-### react
+## 学习路径
 
-### ts
+## vue
+ 
+## react
 
-### nodeJS
+## ts
 
-### nextJS
+## nodeJS
 
-### 微前端
+## nextJS
 
-### 低代码
+## 微前端
 
-### 性能优化
+## 低代码
 
-### 模块化
+## 性能优化
 
-### 算法
+## 算法
 
-### javascript
+## javascript
 
-### css
+## css
