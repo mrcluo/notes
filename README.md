@@ -9,6 +9,8 @@
 
 ## 学习路径
 
+## uniapp
+   - [⚡聊天框 - 微信加载历史数据的效果原来这样实现的 ](https://github.com/mrcluo/notes/issues/1)
 ## vue
  
 ## react
